@@ -36,4 +36,4 @@ PRODUCT_PACKAGES += \
     cr4_regmem_u1.bin \
     wifi_cfg
 
-$(call inherit-product, vendor/honor/berlin/berlin-vendor-blobs.mk)
+$(call inherit-product, vendor/huawei/berlin/berlin-vendor-blobs.mk)
